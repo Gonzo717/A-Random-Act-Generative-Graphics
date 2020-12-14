@@ -4,13 +4,13 @@ A Random Act is a production set for release in Spring 2022 that will take advan
 
 ## Requirements
 ### Hardware
-Windows 10 Machine
-Intel Real Sense Depth Camera D435
+- Windows 10 Machine
+- Intel Real Sense Depth Camera D435
 
 ### Software
-Unity Hub 
-Unity Version 2017.4.38 
-Nuitrack 
+- Unity Hub
+- Unity Version 2017.4.38 
+- Nuitrack 
 
 ## Installation Instructions
 ### Nuitrack and Depth Camera Set-up
